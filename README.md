@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Orkhan Allahyarov</h1>
 <h3 align="center">A full-stack Django&React developer from Azerbaijan</h3>
 ![Profile views](https://gpvc.arturio.dev/orxan666) 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" heigth="100px" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orxan666&label=Profile%20views&color=0e75b6&style=flat" alt="orxan666" /> </p>
