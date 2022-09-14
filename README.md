@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
-[![Orkhan Allahyarov's Activity Graph](https://activity-graph.herokuapp.com/graph?username=orxan666&custom_title=Hikmat%20Rajabli's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/orxan666/)
+[![Orkhan Allahyarov's Activity Graph](https://activity-graph.herokuapp.com/graph?username=orxan666&custom_title=orxan'sContributionGraph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/orxan666/)
 
 ------
 
