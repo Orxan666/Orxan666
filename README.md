@@ -1,6 +1,7 @@
-[![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
+![MasterHead](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2672&q=80)
 <h1 align="center">Hi 👋, I'm Orkhan Allahyarov</h1>
 <h3 align="center">A full-stack Django&React developer from Azerbaijan</h3>
+![Profile views](https://gpvc.arturio.dev/orxan666) 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 
@@ -19,6 +20,10 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
+[![Orkhan Allahyarov's Activity Graph](https://activity-graph.herokuapp.com/graph?username=orxan666&custom_title=Hikmat%20Rajabli's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/orxan666/)
+
+------
+
 <p align="left">
 <a href="https://dev.to/orxan666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="orxan666" height="30" width="40" /></a>
 <a href="https://instagram.com/orxan6661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="orxan6661" height="30" width="40" /></a>
